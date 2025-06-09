@@ -66,7 +66,7 @@ This Windows Forms application is a complete restaurant management system design
 
 📊 Reservation Chart | 🧾 Edit Menu | 🍽️ Edit Tables | 👨‍🍳 Edit Waiters | ✅ Reservations page
 :------------------:|:-----------:|:--------------:|:-----------------:|:--------------:
-![Chart](./ReservationChart.png) | ![Menu](./meniu.png) | ![Tables](./mese.png) | ![Waiters](./ospatari.png) | ![Reservations](./reservations.png)
+![Chart](./ReservationChart.png) | ![Menu](./prtscMeniu.png) | ![Tables](./prtscMese.png) | ![Waiters](./prtscOspatari.png) | ![Reservations](./prtscReservations.png)
 
 ## Future Suggestions
 
