@@ -1,7 +1,7 @@
 # 🍽️ RezzoApp - WinForms App - Restaurant Management System
 
 <p align="center">
-  <img src="logo RezzoApp logo.png" alt="Logo" width="600">
+  <img src="RezzoApplogo.png" alt="Logo" width="600">
 </p>
 <p align="center">
   <em>Created using Canva AI tools. I do not claim ownership of the visual elements.<br>
