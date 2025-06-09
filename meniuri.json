@@ -1,0 +1,92 @@
+[
+  {
+    "numeMeniu": "Ciorba de burta",
+    "tip": "Mancare",
+    "pret": 25
+  },
+  {
+    "numeMeniu": "Sarmale",
+    "tip": "Mancare",
+    "pret": 30
+  },
+  {
+    "numeMeniu": "Friptura de porc",
+    "tip": "Mancare",
+    "pret": 40
+  },
+  {
+    "numeMeniu": "Paste carbonara",
+    "tip": "Mancare",
+    "pret": 35
+  },
+  {
+    "numeMeniu": "Supa de pui",
+    "tip": "Mancare",
+    "pret": 20
+  },
+  {
+    "numeMeniu": "Cola",
+    "tip": "Bautura",
+    "pret": 7
+  },
+  {
+    "numeMeniu": "Apa plata",
+    "tip": "Bautura",
+    "pret": 5
+  },
+  {
+    "numeMeniu": "Vin rosu",
+    "tip": "Bautura",
+    "pret": 20
+  },
+  {
+    "numeMeniu": "Limonada",
+    "tip": "Bautura",
+    "pret": 12
+  },
+  {
+    "numeMeniu": "Papanasi",
+    "tip": "Desert",
+    "pret": 18
+  },
+  {
+    "numeMeniu": "Clatite",
+    "tip": "Desert",
+    "pret": 14
+  },
+  {
+    "numeMeniu": "Tiramisu",
+    "tip": "Desert",
+    "pret": 22
+  },
+  {
+    "numeMeniu": "Inghetata",
+    "tip": "Desert",
+    "pret": 10
+  },
+  {
+    "numeMeniu": "Risotto",
+    "tip": "Mancare",
+    "pret": 33
+  },
+  {
+    "numeMeniu": "Burger",
+    "tip": "Mancare",
+    "pret": 20
+  },
+  {
+    "numeMeniu": "Frappe",
+    "tip": "Bautura",
+    "pret": 14
+  },
+  {
+    "numeMeniu": "Espresso",
+    "tip": "Bautura",
+    "pret": 6
+  },
+  {
+    "numeMeniu": "Cheesecake",
+    "tip": "Desert",
+    "pret": 20
+  }
+]

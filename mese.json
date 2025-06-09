@@ -1,0 +1,102 @@
+[
+  {
+    "numarMasa": 1,
+    "numarLocuriMasa": 4,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 2,
+    "numarLocuriMasa": 6,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 3,
+    "numarLocuriMasa": 2,
+    "disponibilitate": false
+  },
+  {
+    "numarMasa": 4,
+    "numarLocuriMasa": 8,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 5,
+    "numarLocuriMasa": 3,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 6,
+    "numarLocuriMasa": 5,
+    "disponibilitate": false
+  },
+  {
+    "numarMasa": 7,
+    "numarLocuriMasa": 6,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 8,
+    "numarLocuriMasa": 2,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 9,
+    "numarLocuriMasa": 4,
+    "disponibilitate": false
+  },
+  {
+    "numarMasa": 10,
+    "numarLocuriMasa": 3,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 11,
+    "numarLocuriMasa": 7,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 12,
+    "numarLocuriMasa": 8,
+    "disponibilitate": false
+  },
+  {
+    "numarMasa": 13,
+    "numarLocuriMasa": 2,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 14,
+    "numarLocuriMasa": 6,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 15,
+    "numarLocuriMasa": 4,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 16,
+    "numarLocuriMasa": 5,
+    "disponibilitate": false
+  },
+  {
+    "numarMasa": 17,
+    "numarLocuriMasa": 3,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 18,
+    "numarLocuriMasa": 4,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 19,
+    "numarLocuriMasa": 6,
+    "disponibilitate": true
+  },
+  {
+    "numarMasa": 20,
+    "numarLocuriMasa": 8,
+    "disponibilitate": true
+  }
+]

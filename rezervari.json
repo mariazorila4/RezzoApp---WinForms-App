@@ -1,0 +1,172 @@
+[
+  {
+    "idRezervare": 2201,
+    "numeClient": "Popa Andrei",
+    "data_si_ora": "2025-05-05T12:30:00",
+    "numarPersoane": 4,
+    "masa": {
+      "numarMasa": 1,
+      "numarLocuriMasa": 4,
+      "disponibilitate": false
+    },
+    "ospatar": {
+      "id": 101,
+      "nume": "Ionescu",
+      "prenume": "Andrei",
+      "tura": 0
+    }
+  },
+  {
+    "idRezervare": 2202,
+    "numeClient": "Marin Bianca",
+    "data_si_ora": "2025-05-06T18:00:49",
+    "numarPersoane": 2,
+    "masa": {
+      "numarMasa": 8,
+      "numarLocuriMasa": 2,
+      "disponibilitate": false
+    },
+    "ospatar": {
+      "id": 102,
+      "nume": "Popescu",
+      "prenume": "Maria",
+      "tura": 2
+    }
+  },
+  {
+    "idRezervare": 2203,
+    "numeClient": "Georgescu Vlad",
+    "data_si_ora": "2025-05-07T13:45:00",
+    "numarPersoane": 3,
+    "masa": {
+      "numarMasa": 5,
+      "numarLocuriMasa": 3,
+      "disponibilitate": false
+    },
+    "ospatar": {
+      "id": 103,
+      "nume": "Georgescu",
+      "prenume": "Elena",
+      "tura": 1
+    }
+  },
+  {
+    "idRezervare": 2204,
+    "numeClient": "Dima Larisa ",
+    "data_si_ora": "2025-05-08T19:15:35",
+    "numarPersoane": 2,
+    "masa": {
+      "numarMasa": 13,
+      "numarLocuriMasa": 2,
+      "disponibilitate": false
+    },
+    "ospatar": {
+      "id": 104,
+      "nume": "Dima",
+      "prenume": "Mihai",
+      "tura": 2
+    }
+  },
+  {
+    "idRezervare": 2205,
+    "numeClient": "Stoica Radu  ",
+    "data_si_ora": "2025-05-09T14:00:00",
+    "numarPersoane": 6,
+    "masa": {
+      "numarMasa": 7,
+      "numarLocuriMasa": 6,
+      "disponibilitate": false
+    },
+    "ospatar": {
+      "id": 105,
+      "nume": "Stoica",
+      "prenume": "Larisa",
+      "tura": 0
+    }
+  },
+  {
+    "idRezervare": 2206,
+    "numeClient": "Avram Ion",
+    "data_si_ora": "2025-05-10T12:15:06",
+    "numarPersoane": 3,
+    "masa": {
+      "numarMasa": 10,
+      "numarLocuriMasa": 3,
+      "disponibilitate": false
+    },
+    "ospatar": {
+      "id": 108,
+      "nume": "Radu",
+      "prenume": "Cristina",
+      "tura": 0
+    }
+  },
+  {
+    "idRezervare": 2207,
+    "numeClient": "Popescu Elena",
+    "data_si_ora": "2025-05-10T15:15:00",
+    "numarPersoane": 3,
+    "masa": {
+      "numarMasa": 10,
+      "numarLocuriMasa": 3,
+      "disponibilitate": true
+    },
+    "ospatar": {
+      "id": 109,
+      "nume": "Matei",
+      "prenume": "Alexandru",
+      "tura": 1
+    }
+  },
+  {
+    "idRezervare": 2208,
+    "numeClient": "Tudor Silvia",
+    "data_si_ora": "2025-04-29T20:00:29",
+    "numarPersoane": 2,
+    "masa": {
+      "numarMasa": 8,
+      "numarLocuriMasa": 2,
+      "disponibilitate": true
+    },
+    "ospatar": {
+      "id": 110,
+      "nume": "Enache",
+      "prenume": "Silvia",
+      "tura": 2
+    }
+  },
+  {
+    "idRezervare": 2209,
+    "numeClient": "Radu Mihai",
+    "data_si_ora": "2025-04-19T10:00:56",
+    "numarPersoane": 8,
+    "masa": {
+      "numarMasa": 4,
+      "numarLocuriMasa": 8,
+      "disponibilitate": true
+    },
+    "ospatar": {
+      "id": 108,
+      "nume": "Radu",
+      "prenume": "Cristina",
+      "tura": 0
+    }
+  },
+  {
+    "idRezervare": 2210,
+    "numeClient": "Matei Andreea",
+    "data_si_ora": "2025-04-30T16:00:00",
+    "numarPersoane": 4,
+    "masa": {
+      "numarMasa": 15,
+      "numarLocuriMasa": 4,
+      "disponibilitate": true
+    },
+    "ospatar": {
+      "id": 115,
+      "nume": "Barbu",
+      "prenume": "Corina",
+      "tura": 1
+    }
+  }
+]

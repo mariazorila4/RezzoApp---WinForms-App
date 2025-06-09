@@ -1,0 +1,122 @@
+[
+  {
+    "id": 101,
+    "nume": "Ionescu",
+    "prenume": "Andrei",
+    "tura": "Dimineata"
+  },
+  {
+    "id": 102,
+    "nume": "Popescu",
+    "prenume": "Maria",
+    "tura": "Seara"
+  },
+  {
+    "id": 103,
+    "nume": "Georgescu",
+    "prenume": "Elena",
+    "tura": "DupaAmiaza"
+  },
+  {
+    "id": 104,
+    "nume": "Dima",
+    "prenume": "Mihai",
+    "tura": "Seara"
+  },
+  {
+    "id": 105,
+    "nume": "Stoica",
+    "prenume": "Larisa",
+    "tura": "Dimineata"
+  },
+  {
+    "id": 106,
+    "nume": "Marin",
+    "prenume": "Ion",
+    "tura": "DupaAmiaza"
+  },
+  {
+    "id": 107,
+    "nume": "Tudor",
+    "prenume": "Bianca",
+    "tura": "Seara"
+  },
+  {
+    "id": 108,
+    "nume": "Radu",
+    "prenume": "Cristina",
+    "tura": "Dimineata"
+  },
+  {
+    "id": 109,
+    "nume": "Matei",
+    "prenume": "Alexandru",
+    "tura": "DupaAmiaza"
+  },
+  {
+    "id": 110,
+    "nume": "Enache",
+    "prenume": "Silvia",
+    "tura": "Seara"
+  },
+  {
+    "id": 111,
+    "nume": "Dragomir",
+    "prenume": "Ana",
+    "tura": "Dimineata"
+  },
+  {
+    "id": 112,
+    "nume": "Vlad",
+    "prenume": "Paul",
+    "tura": "DupaAmiaza"
+  },
+  {
+    "id": 113,
+    "nume": "Neagu",
+    "prenume": "Andreea",
+    "tura": "Seara"
+  },
+  {
+    "id": 114,
+    "nume": "Petrescu",
+    "prenume": "Radu",
+    "tura": "Dimineata"
+  },
+  {
+    "id": 115,
+    "nume": "Barbu",
+    "prenume": "Corina",
+    "tura": "DupaAmiaza"
+  },
+  {
+    "id": 116,
+    "nume": "Badea",
+    "prenume": "Miruna",
+    "tura": "Seara"
+  },
+  {
+    "id": 117,
+    "nume": "Lupu",
+    "prenume": "Victor",
+    "tura": "Dimineata"
+  },
+  {
+    "id": 118,
+    "nume": "Stan",
+    "prenume": "Teodora",
+    "tura": "DupaAmiaza"
+  },
+  {
+    "id": 119,
+    "nume": "Toma",
+    "prenume": "Sorin",
+    "tura": "Seara"
+  },
+  {
+    "id": 120,
+    "nume": "Avram",
+    "prenume": "Claudia",
+    "tura": "Dimineata"
+  }
+]
