@@ -70,7 +70,6 @@ This Windows Forms application is a complete restaurant management system design
 
 ## Future Suggestions
 
-- Export reservation reports
 - Notification system for upcoming reservations
 - Search and filter functionality for clients/waiters
 - POS system integration
